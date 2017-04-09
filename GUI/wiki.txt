@@ -1,0 +1,1 @@
+This is the most basic GUI project with just two buttons, which control the LED connected to the digital output pin of the Arduino. The board used for this purpose is Uno. With a few tweaks, it can be used with other boards as well.
